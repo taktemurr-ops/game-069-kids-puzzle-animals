@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../app/game_api.dart';
+import 'package:studio_core/app/game_api.dart';
 import 'puzzle_view.dart';
 import 'rules.dart';
 
