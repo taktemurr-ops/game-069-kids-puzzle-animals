@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_069_kids_puzzle_animals/core/level_plan.dart';
-import 'package:game_069_kids_puzzle_animals/core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 import 'package:game_069_kids_puzzle_animals/game/puzzle_engine.dart';
 import 'package:game_069_kids_puzzle_animals/game/rules.dart';
 

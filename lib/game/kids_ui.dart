@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../app/game_api.dart';
+import 'package:studio_core/app/game_api.dart';
 import 'kids_geom.dart';
 
 /// Shared widgets for the Kids & Family games: big, round, friendly.
